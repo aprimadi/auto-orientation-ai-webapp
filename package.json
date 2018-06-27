@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "jquery": "^3.3.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-tap-event-plugin": "^3.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "flow-bin": "^0.69.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^4.0.0",
+    "gulp-livereload": "^3.8.1",
+    "style-loader": "^0.20.3",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4",
+    "webpack-stream": "^4.0.0"
+  }
+}

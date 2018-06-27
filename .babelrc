@@ -1,0 +1,14 @@
+{
+  "env": {
+    "production": {
+      "presets": ["es2016", "stage-2", "react", "flow"]
+    },
+    "development": {
+      "presets": ["es2016", "stage-2", "react", "react-hmre", "flow"]
+    },
+    "test": {
+      "presets": ["es2016", "stage-2", "react", "flow"],
+      "plugins": ["transform-es2015-modules-commonjs"]
+    }
+  }
+}
